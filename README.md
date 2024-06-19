@@ -9,7 +9,7 @@ npm install react-native-form-validation
 
 OR
 
-npm install react-native-form-validation
+yarn add react-native-form-validation
 ```
 
 ## Usage
