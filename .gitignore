@@ -1,6 +1,11 @@
 # OSX
 #
 .DS_Store
+node_modules/
+dist
+Documentation
+example/package-lock.json
+example/yarn.lock
 
 # XDE
 .expo/
